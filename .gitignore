@@ -1,0 +1,6 @@
+# 敏感数据：API抓包/调试输出/日志，禁止入库
+api-captures.json
+debug-data.json
+debug-server.log
+node_modules/
+.DS_Store
