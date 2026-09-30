@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         小鹅通考试批量管理工具
 // @namespace    http://tampermonkey.net/
-// @version      1.6.2
+// @version      1.6.3
 // @description  批量处理小鹅通考试重复副本，支持重复检测、课包级清理（删课包连带考试副本）、批量删除、日期筛选
 // @author       YourName
 // @match        https://admin.xiaoe-tech.com/*
@@ -12,8 +12,8 @@
 // @grant        GM_notification
 // @grant        GM_info
 // @require      https://cdn.jsdelivr.net/npm/sweetalert2@11
-// @updateURL    https://raw.githubusercontent.com/DavidLiu0536/xiaoe-batch-delete-plugin/main/tampermonkey-script.js
-// @downloadURL  https://raw.githubusercontent.com/DavidLiu0536/xiaoe-batch-delete-plugin/main/tampermonkey-script.js
+// @updateURL    https://raw.githubusercontent.com/DavidLiu0536/xiaoe-batch-delete-plugin/main/xiaoe-batch-delete.user.js
+// @downloadURL  https://raw.githubusercontent.com/DavidLiu0536/xiaoe-batch-delete-plugin/main/xiaoe-batch-delete.user.js
 // ==/UserScript==
 
 (function() {

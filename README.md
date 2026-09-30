@@ -16,7 +16,7 @@
 2. 打开脚本地址：
 
    ```
-   https://raw.githubusercontent.com/DavidLiu0536/xiaoe-batch-delete-plugin/main/tampermonkey-script.js
+   https://raw.githubusercontent.com/DavidLiu0536/xiaoe-batch-delete-plugin/main/xiaoe-batch-delete.user.js
    ```
 
    Tampermonkey 会自动弹出安装页，点击「安装」。

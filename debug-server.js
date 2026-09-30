@@ -5,7 +5,7 @@ const path = require('path');
 const PORT = 5031;
 const DEBUG_FILE = path.join(__dirname, 'debug-data.json');
 const CAPTURES_FILE = path.join(__dirname, 'api-captures.json');
-const SCRIPT_FILE = path.join(__dirname, 'tampermonkey-script.js');
+const SCRIPT_FILE = path.join(__dirname, 'xiaoe-batch-delete.user.js');
 
 // 存储最新的调试信息
 let latestDebugData = null;
